@@ -1,0 +1,22 @@
+/* screen - iphone-11-pro-x-1 */
+
+.iphone-11-pro-x-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 812px;
+  padding: 0 96px;
+  width: 375px;
+}
+.iphone-11-pro-x-1 .estoy-en-un-i-phone {
+  color: #000000;
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-l);
+  letter-spacing: 0.60px;
+  line-height: 50px;
+  margin-top: 256px;
+  min-height: 100px;
+  min-width: 182px;
+  text-align: center;
+  width: 182px;
+}

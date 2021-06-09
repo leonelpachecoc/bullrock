@@ -1,0 +1,2465 @@
+/* screen - airdrop-desktop-es */
+
+.airdrop-desktop-es {
+  align-items: center;
+  background-color: var(--negro-bar);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: 12156px;
+  overflow: hidden;
+  width: 1440px;
+}
+.airdrop-desktop-es .a-compelling-value-p {
+  height: 60px;
+  left: 619px;
+  position: absolute;
+  top: 366px;
+  width: 60px;
+}
+.airdrop-desktop-es .a-compelling-value-p-1 {
+  height: 42px;
+  left: 351px;
+  letter-spacing: 10.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: center;
+  top: 497px;
+  white-space: nowrap;
+}
+.airdrop-desktop-es .a-compelling-value-p-2 {
+  height: 42px;
+  left: 576px;
+  letter-spacing: 1.20px;
+  line-height: 42px;
+  position: absolute;
+  text-align: center;
+  top: 118px;
+  white-space: nowrap;
+}
+.airdrop-desktop-es .a-compelling-value-p-3 {
+  height: 42px;
+  left: 140px;
+  letter-spacing: 1.20px;
+  line-height: 42px;
+  position: absolute;
+  top: 202px;
+  white-space: nowrap;
+  width: 341px;
+}
+.airdrop-desktop-es .a-compelling-value-p-4 {
+  height: 42px;
+  left: 567px;
+  letter-spacing: 1.20px;
+  line-height: 42px;
+  position: absolute;
+  text-align: center;
+  top: 78px;
+  white-space: nowrap;
+}
+.airdrop-desktop-es .a-compelling-value-p-5 {
+  height: 42px;
+  left: 600px;
+  letter-spacing: 1.20px;
+  line-height: 42px;
+  position: absolute;
+  text-align: center;
+  top: 4832px;
+  white-space: nowrap;
+}
+.airdrop-desktop-es .a-compelling-value-p-6 {
+  height: 60px;
+  left: 160px;
+  position: absolute;
+  top: 366px;
+  width: 60px;
+}
+.airdrop-desktop-es .adobe-stock427533720 {
+  height: 845px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+.airdrop-desktop-es .arrow-2 {
+  align-self: center;
+  height: 27px;
+  margin-right: 1.0px;
+  margin-top: 178px;
+  width: 24px;
+}
+.airdrop-desktop-es .base {
+  height: 196px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1536px;
+}
+.airdrop-desktop-es .base-1 {
+  height: 50px;
+  left: 198px;
+  position: absolute;
+  top: 809px;
+  width: 233px;
+}
+.airdrop-desktop-es .base-2 {
+  height: 50px;
+  left: 140px;
+  position: absolute;
+  top: 551px;
+  width: 237px;
+}
+.airdrop-desktop-es .base-3 {
+  height: 50px;
+  left: 616px;
+  position: absolute;
+  top: 327px;
+  width: 209px;
+}
+.airdrop-desktop-es .base-4 {
+  height: 50px;
+  left: 657px;
+  position: absolute;
+  top: 127px;
+  width: 237px;
+}
+.airdrop-desktop-es .base-5 {
+  height: 50px;
+  left: 446px;
+  position: absolute;
+  top: 809px;
+  width: 219px;
+}
+.airdrop-desktop-es .base-6 {
+  height: 50px;
+  left: 625px;
+  position: absolute;
+  top: 11464px;
+  width: 193px;
+}
+.airdrop-desktop-es .bdrm-decentralized-b {
+  align-self: flex-end;
+  height: 48px;
+  letter-spacing: 30.00px;
+  line-height: 48px;
+  min-height: 48px;
+  min-width: 1061px;
+  text-align: center;
+  text-shadow: 0px 0px 10px #00efff;
+  white-space: nowrap;
+  width: 1061px;
+}
+.airdrop-desktop-es .bdrm-decentralized-b-1 {
+  height: 96px;
+  left: 93px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 77px;
+  width: 663px;
+}
+.airdrop-desktop-es .bdrm-decentralized-b-10 {
+  height: 29px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  margin-bottom: -19px;
+  margin-left: 2.0px;
+  margin-top: 11px;
+  min-height: 29px;
+  min-width: 636px;
+  text-align: center;
+  white-space: nowrap;
+  width: 636px;
+}
+.airdrop-desktop-es .bdrm-decentralized-b-11 {
+  height: 29px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  margin-bottom: -19px;
+  margin-left: 1.0px;
+  margin-top: 19px;
+  min-height: 29px;
+  min-width: 715px;
+  text-align: center;
+  white-space: nowrap;
+  width: 715px;
+}
+.airdrop-desktop-es .bdrm-decentralized-b-12 {
+  height: 90px;
+  left: 198px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  position: absolute;
+  top: 322px;
+  width: 453px;
+}
+.airdrop-desktop-es .bdrm-decentralized-b-13 {
+  height: 48px;
+  left: 54px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+  width: 423px;
+}
+.airdrop-desktop-es .bdrm-decentralized-b-2 {
+  height: 29px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  margin-bottom: -19px;
+  margin-left: 1.0px;
+  margin-top: 26px;
+  min-height: 29px;
+  min-width: 477px;
+  text-align: center;
+  white-space: nowrap;
+  width: 477px;
+}
+.airdrop-desktop-es .bdrm-decentralized-b-3 {
+  height: 48px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  margin-left: 1.0px;
+  margin-top: 57px;
+  min-height: 48px;
+  min-width: 637px;
+  text-align: center;
+  white-space: nowrap;
+  width: 637px;
+}
+.airdrop-desktop-es .bdrm-decentralized-b-4 {
+  height: 48px;
+  left: 213px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  white-space: nowrap;
+  width: 423px;
+}
+.airdrop-desktop-es .bdrm-decentralized-b-5 {
+  height: 70px;
+  letter-spacing: 1.42px;
+  line-height: 27px;
+  margin-left: 1.0px;
+  margin-top: 776px;
+  min-height: 70px;
+  min-width: 477px;
+  text-align: center;
+  width: 477px;
+}
+.airdrop-desktop-es .bdrm-decentralized-b-6 {
+  height: 46px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  margin-bottom: -2px;
+  margin-left: 1.0px;
+  margin-top: 24px;
+  min-height: 46px;
+  min-width: 823px;
+  text-align: center;
+  white-space: nowrap;
+  width: 823px;
+}
+.airdrop-desktop-es .bdrm-decentralized-b-7 {
+  height: 21px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  margin-left: 8px;
+  margin-top: -1011px;
+  min-height: 21px;
+  min-width: 481px;
+  text-align: center;
+  white-space: nowrap;
+  width: 481px;
+}
+.airdrop-desktop-es .bdrm-decentralized-b-8 {
+  height: 48px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  margin-left: 1.0px;
+  margin-top: 30px;
+  min-height: 48px;
+  min-width: 531px;
+  text-align: center;
+  white-space: nowrap;
+  width: 531px;
+}
+.airdrop-desktop-es .bdrm-decentralized-b-9 {
+  height: 48px;
+  left: 538px;
+  letter-spacing: 30.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 0px 10px #00efff;
+  top: 186px;
+  white-space: nowrap;
+  width: 459px;
+}
+.airdrop-desktop-es .bg-tono {
+  background-color: var(--azul-2);
+  height: 442px;
+  left: 0;
+  opacity: 0.7;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+.airdrop-desktop-es .bg-torito {
+  height: 859px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+.airdrop-desktop-es .blog {
+  letter-spacing: 1.20px;
+  margin-left: 19px;
+  margin-top: 1.0px;
+  min-height: 22px;
+  min-width: 47px;
+  text-align: center;
+}
+.airdrop-desktop-es .blog-1 {
+  left: 612px;
+  letter-spacing: 1.20px;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an {
+  height: 40px;
+  left: 750px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 495px;
+  width: 112px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-1 {
+  height: 30px;
+  left: 323px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 9992px;
+  white-space: nowrap;
+  width: 193px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-10 {
+  height: 30px;
+  left: 323px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 9619px;
+  white-space: nowrap;
+  width: 193px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-11 {
+  height: 40px;
+  left: 1054px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 495px;
+  width: 112px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-12 {
+  height: 103px;
+  left: 598px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 555px;
+  width: 129px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-13 {
+  height: 103px;
+  left: 446px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 555px;
+  width: 129px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-14 {
+  height: 188px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  margin-left: 7.0px;
+  margin-top: 22px;
+  min-height: 188px;
+  min-width: 1175px;
+  text-align: center;
+  width: 1175px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-15 {
+  height: 27px;
+  left: 567px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 213px;
+  white-space: nowrap;
+  width: 305px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-16 {
+  height: 103px;
+  left: 1206px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 555px;
+  width: 129px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-17 {
+  height: 54px;
+  left: 429px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 8854px;
+  width: 535px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-18 {
+  height: 218px;
+  left: 140px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 279px;
+  width: 541px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-19 {
+  height: 103px;
+  left: 142px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 555px;
+  width: 119px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-2 {
+  height: 81px;
+  left: 932px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 254px;
+  width: 324px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-20 {
+  height: 103px;
+  left: 750px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 555px;
+  width: 129px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-21 {
+  height: 27px;
+  left: 990px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 217px;
+  white-space: nowrap;
+  width: 209px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-22 {
+  height: 103px;
+  left: 294px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 555px;
+  width: 112px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-23 {
+  left: 875px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 304px;
+  width: 451px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-24 {
+  height: 30px;
+  left: 323px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 9169px;
+  white-space: nowrap;
+  width: 193px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-25 {
+  height: 27px;
+  left: 987px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 109px;
+  white-space: nowrap;
+  width: 271px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-26 {
+  height: 27px;
+  left: 573px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 448px;
+  white-space: nowrap;
+  width: 293px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-27 {
+  height: 135px;
+  left: 167px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 141px;
+  width: 318px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-28 {
+  height: 135px;
+  left: 932px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 484px;
+  width: 324px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-29 {
+  height: 30px;
+  left: 575px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 10202px;
+  white-space: nowrap;
+  width: 366px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-3 {
+  height: 40px;
+  left: 598px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 495px;
+  width: 112px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-30 {
+  height: 381px;
+  left: 699px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 8995px;
+  width: 458px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-31 {
+  height: 54px;
+  left: 496px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 4903px;
+  width: 535px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-32 {
+  height: 54px;
+  left: 444px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 179px;
+  width: 553px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-33 {
+  height: 135px;
+  left: 183px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 480px;
+  width: 324px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-34 {
+  height: 199px;
+  left: 699px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 9908px;
+  width: 458px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-35 {
+  height: 40px;
+  left: 446px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 495px;
+  width: 112px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-36 {
+  height: 108px;
+  left: 182px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 245px;
+  width: 324px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-37 {
+  height: 27px;
+  left: 550px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 8802px;
+  white-space: nowrap;
+  width: 293px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-38 {
+  height: 39px;
+  left: 233px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 137px;
+  width: 975px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-39 {
+  height: 40px;
+  left: 294px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 495px;
+  width: 112px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-4 {
+  height: 135px;
+  left: 976px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 141px;
+  width: 293px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-40 {
+  height: 40px;
+  left: 902px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 495px;
+  width: 112px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-41 {
+  height: 361px;
+  left: 699px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 9455px;
+  width: 458px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-42 {
+  height: 108px;
+  left: 580px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 141px;
+  width: 286px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-43 {
+  height: 27px;
+  left: 239px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 213px;
+  white-space: nowrap;
+  width: 209px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-44 {
+  height: 189px;
+  left: 557px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 480px;
+  width: 324px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-45 {
+  height: 30px;
+  left: 459px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 10202px;
+  white-space: nowrap;
+  width: 113px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-46 {
+  height: 40px;
+  left: 142px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 495px;
+  width: 112px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-47 {
+  height: 27px;
+  left: 172px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 109px;
+  white-space: nowrap;
+  width: 308px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-48 {
+  height: 27px;
+  left: 990px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 452px;
+  white-space: nowrap;
+  width: 209px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-49 {
+  height: 103px;
+  left: 902px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 555px;
+  width: 129px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-5 {
+  height: 40px;
+  left: 1206px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 495px;
+  width: 112px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-50 {
+  height: 27px;
+  left: 216px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 448px;
+  white-space: nowrap;
+  width: 259px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-6 {
+  height: 108px;
+  left: 557px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 245px;
+  width: 324px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-7 {
+  height: 27px;
+  left: 568px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 109px;
+  white-space: nowrap;
+  width: 311px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-8 {
+  height: 70px;
+  left: 223px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 678px;
+  width: 997px;
+}
+.airdrop-desktop-es .bodrum-bdrm-is-an-9 {
+  height: 103px;
+  left: 1054px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 555px;
+  width: 129px;
+}
+.airdrop-desktop-es .btc-alt-1 {
+  height: 33px;
+  left: 977px;
+  position: absolute;
+  top: 10804px;
+  width: 24px;
+}
+.airdrop-desktop-es .btn-connect {
+  align-items: flex-end;
+  background-image: url(../img/base-7@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 42px;
+  left: 1141px;
+  padding: 11px 17.5px;
+  position: absolute;
+  top: 76px;
+  width: 98px;
+}
+.airdrop-desktop-es .bullrockbri {
+  height: 924px;
+  left: 263px;
+  object-fit: cover;
+  position: absolute;
+  top: 105px;
+  width: 1000px;
+}
+.airdrop-desktop-es .buy-now {
+  letter-spacing: 1.00px;
+  min-height: 19px;
+  min-width: 60px;
+  text-align: center;
+}
+.airdrop-desktop-es .combined-shape {
+  height: 15px;
+  left: -878px;
+  position: absolute;
+  top: -4610px;
+  width: 15px;
+}
+.airdrop-desktop-es .combined-shape-1 {
+  height: 15px;
+  left: -878px;
+  position: absolute;
+  top: -4601px;
+  width: 15px;
+}
+.airdrop-desktop-es .contact-us {
+  letter-spacing: 0.69px;
+  line-height: 30px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+.airdrop-desktop-es .cuadro {
+  height: 72px;
+  left: 581px;
+  position: absolute;
+  top: 250px;
+  width: 82px;
+}
+.airdrop-desktop-es .cuadro-1 {
+  height: 72px;
+  left: 775px;
+  position: absolute;
+  top: 250px;
+  width: 82px;
+}
+.airdrop-desktop-es .cuadro-2 {
+  height: 72px;
+  left: 678px;
+  position: absolute;
+  top: 250px;
+  width: 82px;
+}
+.airdrop-desktop-es .cuadro-3 {
+  height: 82px;
+  left: 276px;
+  position: absolute;
+  top: 10176px;
+  width: 879px;
+}
+.airdrop-desktop-es .cuadro-4 {
+  height: 82px;
+  left: 276px;
+  position: absolute;
+  top: 9966px;
+  width: 285px;
+}
+.airdrop-desktop-es .cuadro-5 {
+  height: 82px;
+  left: 276px;
+  position: absolute;
+  top: 9593px;
+  width: 285px;
+}
+.airdrop-desktop-es .cuadro-6 {
+  height: 72px;
+  left: 872px;
+  position: absolute;
+  top: 250px;
+  width: 82px;
+}
+.airdrop-desktop-es .cuadro-7 {
+  height: 82px;
+  left: 276px;
+  position: absolute;
+  top: 9143px;
+  width: 285px;
+}
+.airdrop-desktop-es .demos {
+  letter-spacing: 1.20px;
+  margin-left: 19px;
+  margin-top: 1.0px;
+  min-height: 22px;
+  min-width: 32px;
+  text-align: center;
+}
+.airdrop-desktop-es .demos-1 {
+  letter-spacing: 1.20px;
+  margin-left: 19px;
+  margin-top: 1.0px;
+  min-height: 22px;
+  min-width: 94px;
+  text-align: center;
+}
+.airdrop-desktop-es .demos-2 {
+  left: 678px;
+  letter-spacing: 1.20px;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+}
+.airdrop-desktop-es .demos-3 {
+  letter-spacing: 1.20px;
+  margin-left: 19px;
+  margin-top: 1.0px;
+  min-height: 22px;
+  min-width: 58px;
+  text-align: center;
+}
+.airdrop-desktop-es .demos-4 {
+  left: 806px;
+  letter-spacing: 1.20px;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+}
+.airdrop-desktop-es .demos-5 {
+  left: 755px;
+  letter-spacing: 1.20px;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+}
+.airdrop-desktop-es .demos-6 {
+  left: 1028px;
+  letter-spacing: 1.20px;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+}
+.airdrop-desktop-es .demos-7 {
+  letter-spacing: 1.20px;
+  margin-left: 19px;
+  margin-top: 1.0px;
+  min-height: 22px;
+  min-width: 84px;
+  text-align: center;
+}
+.airdrop-desktop-es .docs {
+  letter-spacing: 1.20px;
+  min-height: 22px;
+  min-width: 26px;
+  text-align: center;
+  width: 26px;
+}
+.airdrop-desktop-es .docs-1 {
+  left: 1306px;
+  letter-spacing: 1.20px;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+  width: 26px;
+}
+.airdrop-desktop-es .e-mail-supportbran {
+  letter-spacing: 0.88px;
+  line-height: 26px;
+  margin-top: 10px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+.airdrop-desktop-es .ellipse-3 {
+  height: 34px;
+  left: 1301px;
+  position: absolute;
+  top: 80px;
+  width: 34px;
+}
+.airdrop-desktop-es .ellipse-4 {
+  height: 70px;
+  left: 383px;
+  position: absolute;
+  top: 9282px;
+  width: 70px;
+}
+.airdrop-desktop-es .facebook {
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+.airdrop-desktop-es .fast-safe-privacy {
+  left: 875px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 615px;
+  white-space: nowrap;
+}
+.airdrop-desktop-es .favicon-bullswap {
+  height: 52px;
+  left: 392px;
+  object-fit: cover;
+  position: absolute;
+  top: 9291px;
+  width: 52px;
+}
+.airdrop-desktop-es .feature {
+  height: 42px;
+  left: 566px;
+  letter-spacing: 1.20px;
+  line-height: 42px;
+  position: absolute;
+  text-align: center;
+  top: 108px;
+  white-space: nowrap;
+}
+.airdrop-desktop-es .fill-3 {
+  height: 7px;
+  left: -882px;
+  position: absolute;
+  top: -4601px;
+  width: 6px;
+}
+.airdrop-desktop-es .fill-3-1 {
+  height: 7px;
+  left: -874px;
+  position: absolute;
+  top: -4601px;
+  width: 7px;
+}
+.airdrop-desktop-es .fill-3-2 {
+  height: 7px;
+  left: -864px;
+  position: absolute;
+  top: -4601px;
+  width: 6px;
+}
+.airdrop-desktop-es .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 21px;
+  margin-top: 1.0px;
+  min-height: 66px;
+  width: 259px;
+}
+.airdrop-desktop-es .flex-row {
+  align-items: center;
+  display: flex;
+  margin-left: 5.0px;
+  margin-top: 56px;
+  min-width: 1153px;
+}
+.airdrop-desktop-es .fondoswap {
+  height: 271px;
+  left: 225px;
+  position: absolute;
+  top: 378px;
+  width: 467px;
+}
+.airdrop-desktop-es .fusce-placerat-preti {
+  left: 343px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 11299px;
+  width: 759px;
+}
+.airdrop-desktop-es .fusce-placerat-preti-1 {
+  left: 198px;
+  letter-spacing: 0.60px;
+  line-height: 20px;
+  position: absolute;
+  top: 886px;
+  width: 453px;
+}
+.airdrop-desktop-es .fusce-placerat-preti-2 {
+  left: 541px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 10692px;
+  width: 363px;
+}
+.airdrop-desktop-es .group {
+  height: 25px;
+  margin-top: -1013px;
+  width: 25px;
+}
+.airdrop-desktop-es .group-18 {
+  height: 58px;
+  margin-top: 20px;
+  width: 290px;
+}
+.airdrop-desktop-es .group-22 {
+  height: 58px;
+  left: 276px;
+  position: absolute;
+  top: 519px;
+  width: 296px;
+}
+.airdrop-desktop-es .group-26 {
+  align-items: center;
+  background-image: url(../img/ellipse-2-1@2x.svg);
+  background-size: 100% 100%;
+  cursor: pointer;
+  display: flex;
+  height: 34px;
+  justify-content: flex-end;
+  left: 1265px;
+  min-width: 34px;
+  padding: 0 3px;
+  position: absolute;
+  top: 80px;
+}
+.airdrop-desktop-es .group-28 {
+  align-self: center;
+  height: 77px;
+  margin-right: 6.23px;
+  margin-top: 235px;
+  width: 501px;
+}
+.airdrop-desktop-es .home {
+  left: 424px;
+  letter-spacing: 1.20px;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+}
+.airdrop-desktop-es .home-1 {
+  letter-spacing: 1.20px;
+  margin-left: 13px;
+  margin-top: 1.0px;
+  min-height: 22px;
+  min-width: 72px;
+  text-align: center;
+}
+.airdrop-desktop-es .icons-socialfacebook {
+  align-items: flex-end;
+  display: flex;
+  height: 42px;
+  justify-content: flex-end;
+  left: 648px;
+  min-width: 42px;
+  padding: 8.0px 14.0px;
+  position: absolute;
+  top: 10800px;
+}
+.airdrop-desktop-es .icons-socialtwitter {
+  align-items: flex-start;
+  display: flex;
+  height: 42px;
+  justify-content: flex-end;
+  left: 540px;
+  min-width: 42px;
+  padding: 10.0px 8.0px;
+  position: absolute;
+  top: 10800px;
+}
+.airdrop-desktop-es .image-10 {
+  height: 342px;
+  left: 176px;
+  object-fit: cover;
+  position: absolute;
+  top: 331px;
+  width: 552px;
+}
+.airdrop-desktop-es .image-11 {
+  height: 241px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 80px;
+  width: 389px;
+}
+.airdrop-desktop-es .image-12 {
+  height: 266px;
+  left: 1018px;
+  object-fit: cover;
+  position: absolute;
+  top: 624px;
+  width: 429px;
+}
+.airdrop-desktop-es .image-13 {
+  height: 154px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 631px;
+  width: 249px;
+}
+.airdrop-desktop-es .image-14 {
+  height: 127px;
+  left: 1164px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 204px;
+}
+.airdrop-desktop-es .image-8 {
+  height: 353px;
+  left: 158px;
+  object-fit: cover;
+  position: absolute;
+  top: 350px;
+  width: 611px;
+}
+.airdrop-desktop-es .join-us-on-telegram {
+  left: 515px;
+  letter-spacing: 1.20px;
+  line-height: 42px;
+  position: absolute;
+  text-align: center;
+  top: 10638px;
+  white-space: nowrap;
+}
+.airdrop-desktop-es .join-us-on-telegram-1 {
+  left: 445px;
+  letter-spacing: 1.20px;
+  line-height: 42px;
+  position: absolute;
+  text-align: center;
+  top: 11221px;
+  white-space: nowrap;
+}
+.airdrop-desktop-es .line {
+  background-color: var(--shark);
+  height: 1px;
+  margin-left: 14.0px;
+  margin-top: 55px;
+  width: 1140px;
+}
+.airdrop-desktop-es .logo-bullrock-i-n-blanco-solido {
+  height: 32px;
+  margin-left: -887px;
+  margin-top: -4821.22px;
+  object-fit: cover;
+  width: 27px;
+}
+.airdrop-desktop-es .logo-bullrock-i-n-blanco-solido-1 {
+  height: 72px;
+  left: 208px;
+  object-fit: cover;
+  position: absolute;
+  top: 62px;
+  width: 72px;
+}
+.airdrop-desktop-es .logo-menu {
+  height: 78px;
+  left: 285px;
+  position: absolute;
+  top: 52px;
+  width: 105px;
+}
+.airdrop-desktop-es .logo-menu-1 {
+  height: 69px;
+  object-fit: cover;
+  width: 172px;
+}
+.airdrop-desktop-es .logos {
+  height: 427px;
+  left: 55px;
+  position: absolute;
+  top: 6770px;
+  width: 1440px;
+}
+.airdrop-desktop-es .maecenas-sed-ligula {
+  left: 198px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 703px;
+  width: 496px;
+}
+.airdrop-desktop-es .max-supply {
+  height: 40px;
+  left: 442px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 241px;
+  width: 553px;
+}
+.airdrop-desktop-es .morbi-mollis-lorem-a {
+  left: 875px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 653px;
+  width: 457px;
+}
+.airdrop-desktop-es .nmero {
+  height: 28px;
+  left: -859px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: -4612px;
+  white-space: nowrap;
+  width: 69px;
+}
+.airdrop-desktop-es .nmero-1 {
+  height: 40px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  margin-bottom: -8px;
+  margin-left: -396.25px;
+  margin-top: 19px;
+  min-height: 40px;
+  white-space: nowrap;
+}
+.airdrop-desktop-es .nmero-10 {
+  height: 34px;
+  left: 599px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 261px;
+  white-space: nowrap;
+  width: 48px;
+}
+.airdrop-desktop-es .nmero-11 {
+  height: 34px;
+  left: 696px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 261px;
+  white-space: nowrap;
+  width: 48px;
+}
+.airdrop-desktop-es .nmero-12 {
+  height: 34px;
+  left: 793px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 261px;
+  white-space: nowrap;
+  width: 48px;
+}
+.airdrop-desktop-es .nmero-2 {
+  height: 34px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  margin-top: -1001px;
+  min-height: 34px;
+  min-width: 676px;
+  text-align: center;
+  white-space: nowrap;
+  width: 676px;
+}
+.airdrop-desktop-es .nmero-3 {
+  height: 34px;
+  left: 890px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 261px;
+  white-space: nowrap;
+  width: 48px;
+}
+.airdrop-desktop-es .nmero-4 {
+  height: 24px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  margin-bottom: -24px;
+  margin-left: -395.89px;
+  margin-top: -2745px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+.airdrop-desktop-es .nmero-5 {
+  align-self: flex-start;
+  height: 36px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  margin-bottom: -12px;
+  margin-left: 41px;
+  margin-top: -993px;
+  min-height: 36px;
+  min-width: 124px;
+  text-align: center;
+  white-space: nowrap;
+  width: 124px;
+}
+.airdrop-desktop-es .nmero-6 {
+  height: 35px;
+  left: -346px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  position: absolute;
+  text-align: right;
+  top: -2785px;
+  white-space: nowrap;
+  width: 359px;
+}
+.airdrop-desktop-es .nmero-7 {
+  height: 35px;
+  left: -435px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  position: absolute;
+  top: -2785px;
+  white-space: nowrap;
+  width: 91px;
+}
+.airdrop-desktop-es .nmero-8 {
+  height: 28px;
+  left: -1637px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: -6950px;
+  white-space: nowrap;
+  width: 127px;
+}
+.airdrop-desktop-es .nmero-9 {
+  height: 24px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  margin-bottom: -24px;
+  margin-left: -396.25px;
+  margin-top: -2744px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+.airdrop-desktop-es .nunc-varius-interdum {
+  left: 875px;
+  letter-spacing: 0.60px;
+  line-height: 27px;
+  position: absolute;
+  top: 494px;
+  width: 451px;
+}
+.airdrop-desktop-es .overlap-group {
+  background-image: url(../img/bg-number@1x.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 746px;
+  left: 55px;
+  position: absolute;
+  top: 7993px;
+  width: 1440px;
+}
+.airdrop-desktop-es .overlap-group1 {
+  align-items: center;
+  background-image: url(../img/rectangle-7@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  left: 55px;
+  min-height: 2404px;
+  padding: 0 189px;
+  position: absolute;
+  top: 1066px;
+  width: 1440px;
+}
+.airdrop-desktop-es .overlap-group10 {
+  align-items: flex-start;
+  background-image: url(../img/cuadro-24@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-right: -396.89px;
+  margin-top: 18px;
+  min-height: 159px;
+  width: 501px;
+}
+.airdrop-desktop-es .overlap-group10-1 {
+  height: 26px;
+  position: relative;
+  width: 14px;
+}
+.airdrop-desktop-es .overlap-group11 {
+  align-items: flex-end;
+  background-image: url(../img/cuadro-12@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  left: 139px;
+  min-height: 606px;
+  position: absolute;
+  top: 0;
+  width: 571px;
+}
+.airdrop-desktop-es .overlap-group12 {
+  align-items: flex-start;
+  background-image: url(../img/cuadro-6@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  margin-top: 367px;
+  min-width: 800px;
+  padding: 0 56.3px;
+}
+.airdrop-desktop-es .overlap-group13 {
+  align-items: flex-start;
+  background-color: var(--azul-1);
+  border-radius: 19.5px;
+  display: flex;
+  height: 39px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 529px;
+  padding: 0 6px;
+  position: absolute;
+  top: 0;
+}
+.airdrop-desktop-es .overlap-group14 {
+  align-items: flex-start;
+  background-image: url(../img/cuadro-6@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  margin-top: 378px;
+  min-width: 800px;
+  padding: 0 56.3px;
+}
+.airdrop-desktop-es .overlap-group15 {
+  height: 35px;
+  margin-right: -373.87px;
+  margin-top: 10px;
+  position: relative;
+  width: 448px;
+}
+.airdrop-desktop-es .overlap-group16 {
+  align-items: flex-start;
+  background-image: url(../img/vector-20@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 25px;
+  margin-right: -372.56px;
+  margin-top: 2235px;
+  min-width: 25px;
+}
+.airdrop-desktop-es .overlap-group17 {
+  align-self: flex-end;
+  background-image: url(../img/cuadro-14@2x.svg);
+  background-size: 100% 100%;
+  height: 53px;
+  margin-right: -435.0px;
+  margin-top: 4571px;
+  position: relative;
+  width: 138px;
+}
+.airdrop-desktop-es .overlap-group17-1 {
+  align-self: flex-end;
+  height: 28px;
+  margin-bottom: -2105px;
+  margin-left: 1638px;
+  position: relative;
+  width: 144px;
+}
+.airdrop-desktop-es .overlap-group18 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-image: url(../img/cuadro-16@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 53px;
+  margin-right: -435.0px;
+  margin-top: 4778px;
+  min-width: 201px;
+}
+.airdrop-desktop-es .overlap-group19 {
+  height: 11709px;
+  margin-right: 6.77px;
+  margin-top: -46px;
+  position: relative;
+  width: 1543px;
+}
+.airdrop-desktop-es .overlap-group2 {
+  height: 11657px;
+  left: 54px;
+  position: absolute;
+  top: 52px;
+  width: 1442px;
+}
+.airdrop-desktop-es .overlap-group20 {
+  height: 606px;
+  margin-right: 14.0px;
+  margin-top: 51px;
+  position: relative;
+  width: 834px;
+}
+.airdrop-desktop-es .overlap-group21 {
+  height: 54px;
+  margin-right: 1.0px;
+  margin-top: 58px;
+  position: relative;
+  width: 529px;
+}
+.airdrop-desktop-es .overlap-group3 {
+  height: 1066px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 1536px;
+}
+.airdrop-desktop-es .overlap-group4 {
+  background-image: url(../img/torito@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 859px;
+  left: 55px;
+  position: absolute;
+  top: 3912px;
+  width: 1440px;
+}
+.airdrop-desktop-es .overlap-group5 {
+  background-image: url(../img/bg-features@1x.svg);
+  background-size: 100% 100%;
+  height: 796px;
+  left: 55px;
+  position: absolute;
+  top: 7197px;
+  width: 1440px;
+}
+.airdrop-desktop-es .overlap-group6 {
+  background-image: url(../img/3d-tech@1x.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 442px;
+  left: 55px;
+  position: absolute;
+  top: 3470px;
+  width: 1440px;
+}
+.airdrop-desktop-es .overlap-group7 {
+  height: 845px;
+  left: 55px;
+  position: absolute;
+  top: 5925px;
+  width: 1457px;
+}
+.airdrop-desktop-es .overlap-group8 {
+  height: 1029px;
+  left: 0;
+  position: absolute;
+  top: 4873px;
+  width: 1447px;
+}
+.airdrop-desktop-es .overlap-group9 {
+  height: 22px;
+  position: relative;
+  width: 26px;
+}
+.airdrop-desktop-es .overlap-group9-1 {
+  align-items: flex-start;
+  background-image: url(../img/cuadro-26@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-right: -396.89px;
+  margin-top: 48px;
+  min-height: 160px;
+  width: 501px;
+}
+.airdrop-desktop-es .pages {
+  letter-spacing: 1.20px;
+  margin-left: 19px;
+  margin-top: 1.0px;
+  min-height: 22px;
+  min-width: 78px;
+  text-align: center;
+}
+.airdrop-desktop-es .pages-1 {
+  left: 909px;
+  letter-spacing: 1.20px;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+}
+.airdrop-desktop-es .pages-2 {
+  letter-spacing: 1.20px;
+  margin-left: 19px;
+  margin-top: 1.0px;
+  min-height: 22px;
+  min-width: 90px;
+  text-align: center;
+}
+.airdrop-desktop-es .pages-3 {
+  left: 515px;
+  letter-spacing: 1.20px;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+}
+.airdrop-desktop-es .path {
+  height: 1px;
+  left: 7px;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+.airdrop-desktop-es .path-1 {
+  height: 1px;
+  left: 13px;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+.airdrop-desktop-es .placeholder {
+  height: 70px;
+  left: 850px;
+  position: absolute;
+  top: 10786px;
+  width: 70px;
+}
+.airdrop-desktop-es .placeholder-1 {
+  height: 70px;
+  left: 418px;
+  position: absolute;
+  top: 10786px;
+  width: 70px;
+}
+.airdrop-desktop-es .placeholder-2 {
+  height: 70px;
+  left: 954px;
+  position: absolute;
+  top: 10786px;
+  width: 70px;
+}
+.airdrop-desktop-es .placeholder-3 {
+  height: 70px;
+  left: 526px;
+  position: absolute;
+  top: 10786px;
+  width: 70px;
+}
+.airdrop-desktop-es .placeholder-4 {
+  height: 70px;
+  left: 634px;
+  position: absolute;
+  top: 10786px;
+  width: 70px;
+}
+.airdrop-desktop-es .placeholder-5 {
+  height: 70px;
+  left: 742px;
+  position: absolute;
+  top: 10786px;
+  width: 70px;
+}
+.airdrop-desktop-es .rectangle {
+  background-color: var(--azul-2);
+  height: 796px;
+  left: 0;
+  opacity: 0.4;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+.airdrop-desktop-es .rectangle-1 {
+  background-color: var(--azul-2);
+  height: 674px;
+  left: 0;
+  opacity: 0.7;
+  position: absolute;
+  top: 10405px;
+  width: 1442px;
+}
+.airdrop-desktop-es .rectangle-10 {
+  background-color: var(--morado);
+  border-radius: 19px;
+  height: 38px;
+  left: 1263px;
+  position: absolute;
+  top: 78px;
+  width: 74px;
+}
+.airdrop-desktop-es .rectangle-11 {
+  height: 250px;
+  left: 198px;
+  position: absolute;
+  top: 436px;
+  width: 447px;
+}
+.airdrop-desktop-es .rectangle-12 {
+  height: 70px;
+  left: 386px;
+  position: absolute;
+  top: 526px;
+  width: 70px;
+}
+.airdrop-desktop-es .rectangle-14 {
+  height: 579px;
+  left: 1px;
+  position: absolute;
+  top: 11078px;
+  width: 1440px;
+}
+.airdrop-desktop-es .rectangle-15 {
+  background-color: var(--green-vogue);
+  border-radius: 15px;
+  height: 188px;
+  left: 547px;
+  position: absolute;
+  top: 194px;
+  width: 347px;
+}
+.airdrop-desktop-es .rectangle-15-1 {
+  background-color: var(--green-vogue);
+  border-radius: 15px;
+  height: 254px;
+  left: 922px;
+  position: absolute;
+  top: 441px;
+  width: 347px;
+}
+.airdrop-desktop-es .rectangle-15-2 {
+  background-color: var(--green-vogue);
+  border-radius: 15px;
+  height: 188px;
+  left: 170px;
+  position: absolute;
+  top: 194px;
+  width: 347px;
+}
+.airdrop-desktop-es .rectangle-15-3 {
+  background-color: var(--green-vogue);
+  border-radius: 15px;
+  height: 254px;
+  left: 547px;
+  position: absolute;
+  top: 441px;
+  width: 347px;
+}
+.airdrop-desktop-es .rectangle-15-4 {
+  background-color: var(--green-vogue);
+  border-radius: 15px;
+  height: 254px;
+  left: 170px;
+  position: absolute;
+  top: 441px;
+  width: 347px;
+}
+.airdrop-desktop-es .rectangle-15-5 {
+  background-color: var(--green-vogue);
+  border-radius: 15px;
+  height: 188px;
+  left: 922px;
+  position: absolute;
+  top: 194px;
+  width: 347px;
+}
+.airdrop-desktop-es .rectangle-16 {
+  background-color: var(--midnight-blue);
+  border-radius: 15px;
+  height: 254px;
+  left: 170px;
+  position: absolute;
+  top: 431px;
+  width: 347px;
+}
+.airdrop-desktop-es .rectangle-16-1 {
+  background-color: var(--midnight-blue);
+  border-radius: 15px;
+  height: 254px;
+  left: 922px;
+  position: absolute;
+  top: 431px;
+  width: 347px;
+}
+.airdrop-desktop-es .rectangle-16-2 {
+  background-color: var(--midnight-blue);
+  border-radius: 15px;
+  height: 178px;
+  left: 547px;
+  position: absolute;
+  top: 194px;
+  width: 347px;
+}
+.airdrop-desktop-es .rectangle-16-3 {
+  background-color: var(--midnight-blue);
+  border-radius: 15px;
+  height: 178px;
+  left: 922px;
+  position: absolute;
+  top: 194px;
+  width: 347px;
+}
+.airdrop-desktop-es .rectangle-16-4 {
+  background-color: var(--midnight-blue);
+  border-radius: 15px;
+  height: 254px;
+  left: 547px;
+  position: absolute;
+  top: 431px;
+  width: 347px;
+}
+.airdrop-desktop-es .rectangle-16-5 {
+  background-color: var(--midnight-blue);
+  border-radius: 15px;
+  height: 178px;
+  left: 170px;
+  position: absolute;
+  top: 194px;
+  width: 347px;
+}
+.airdrop-desktop-es .rectangle-17 {
+  height: 168px;
+  left: 170px;
+  position: absolute;
+  top: 194px;
+  width: 347px;
+}
+.airdrop-desktop-es .rectangle-17-1 {
+  height: 254px;
+  left: 170px;
+  position: absolute;
+  top: 421px;
+  width: 347px;
+}
+.airdrop-desktop-es .rectangle-17-2 {
+  height: 254px;
+  left: 922px;
+  position: absolute;
+  top: 421px;
+  width: 347px;
+}
+.airdrop-desktop-es .rectangle-17-3 {
+  height: 168px;
+  left: 922px;
+  position: absolute;
+  top: 194px;
+  width: 347px;
+}
+.airdrop-desktop-es .rectangle-17-4 {
+  height: 254px;
+  left: 547px;
+  position: absolute;
+  top: 421px;
+  width: 347px;
+}
+.airdrop-desktop-es .rectangle-17-5 {
+  height: 168px;
+  left: 547px;
+  position: absolute;
+  top: 194px;
+  width: 347px;
+}
+.airdrop-desktop-es .rectangle-18 {
+  height: 215px;
+  left: 145px;
+  position: absolute;
+  top: 83px;
+  width: 354px;
+}
+.airdrop-desktop-es .rectangle-19 {
+  height: 215px;
+  left: 543px;
+  position: absolute;
+  top: 83px;
+  width: 354px;
+}
+.airdrop-desktop-es .rectangle-2 {
+  background-color: var(--azul-2);
+  height: 746px;
+  left: 0;
+  opacity: 0.8;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+.airdrop-desktop-es .rectangle-20 {
+  height: 215px;
+  left: 941px;
+  position: absolute;
+  top: 83px;
+  width: 354px;
+}
+.airdrop-desktop-es .rectangle-22 {
+  height: 96px;
+  left: 409px;
+  position: absolute;
+  top: 213px;
+  width: 618px;
+}
+.airdrop-desktop-es .sidechain-architectu {
+  left: 875px;
+  letter-spacing: 0.68px;
+  line-height: 26px;
+  position: absolute;
+  top: 456px;
+  white-space: nowrap;
+}
+.airdrop-desktop-es .text {
+  left: 467px;
+  letter-spacing: 1.07px;
+  position: absolute;
+  text-align: center;
+  top: 824px;
+  width: 179px;
+}
+.airdrop-desktop-es .text-1 {
+  left: 223px;
+  letter-spacing: 1.07px;
+  position: absolute;
+  text-align: center;
+  top: 824px;
+  width: 185px;
+}
+.airdrop-desktop-es .text-19 {
+  height: 89px;
+  left: 295px;
+  letter-spacing: 1.20px;
+  line-height: 42px;
+  position: absolute;
+  text-align: center;
+  top: 352px;
+  width: 98px;
+}
+.airdrop-desktop-es .text-2 {
+  left: 632px;
+  letter-spacing: 1.07px;
+  position: absolute;
+  text-align: center;
+  top: 342px;
+  width: 179px;
+}
+.airdrop-desktop-es .text-20 {
+  height: 89px;
+  left: 448px;
+  letter-spacing: 1.20px;
+  line-height: 42px;
+  position: absolute;
+  text-align: center;
+  top: 352px;
+  width: 98px;
+}
+.airdrop-desktop-es .text-21 {
+  height: 89px;
+  left: 754px;
+  letter-spacing: 1.20px;
+  line-height: 42px;
+  position: absolute;
+  text-align: center;
+  top: 352px;
+  width: 98px;
+}
+.airdrop-desktop-es .text-22 {
+  height: 89px;
+  left: 907px;
+  letter-spacing: 1.20px;
+  line-height: 42px;
+  position: absolute;
+  text-align: center;
+  top: 352px;
+  width: 98px;
+}
+.airdrop-desktop-es .text-23 {
+  height: 89px;
+  left: 1060px;
+  letter-spacing: 1.20px;
+  line-height: 42px;
+  position: absolute;
+  text-align: center;
+  top: 352px;
+  width: 98px;
+}
+.airdrop-desktop-es .text-24 {
+  height: 89px;
+  left: 1213px;
+  letter-spacing: 1.20px;
+  line-height: 42px;
+  position: absolute;
+  text-align: center;
+  top: 352px;
+  width: 98px;
+}
+.airdrop-desktop-es .text-3 {
+  left: 640px;
+  letter-spacing: 1.07px;
+  position: absolute;
+  text-align: center;
+  top: 11479px;
+  width: 165px;
+}
+.airdrop-desktop-es .text-4 {
+  left: 146px;
+  letter-spacing: 1.07px;
+  position: absolute;
+  text-align: center;
+  top: 566px;
+  width: 227px;
+}
+.airdrop-desktop-es .text-5 {
+  left: 663px;
+  letter-spacing: 1.07px;
+  position: absolute;
+  text-align: center;
+  top: 142px;
+  width: 227px;
+}
+.airdrop-desktop-es .tiempo {
+  height: 13px;
+  left: 692px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 299px;
+  white-space: nowrap;
+  width: 56px;
+}
+.airdrop-desktop-es .tiempo-1 {
+  height: 13px;
+  left: 886px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 299px;
+  white-space: nowrap;
+  width: 56px;
+}
+.airdrop-desktop-es .tiempo-2 {
+  height: 13px;
+  left: 595px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 299px;
+  white-space: nowrap;
+  width: 56px;
+}
+.airdrop-desktop-es .tiempo-3 {
+  height: 13px;
+  left: 789px;
+  letter-spacing: 1.42px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 299px;
+  white-space: nowrap;
+  width: 56px;
+}
+.airdrop-desktop-es .toro-neon {
+  height: 1020px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 1440px;
+}
+.airdrop-desktop-es .transferencia-bullrock {
+  height: 553px;
+  left: 601px;
+  object-fit: cover;
+  position: absolute;
+  top: 99px;
+  width: 856px;
+}
+.airdrop-desktop-es .twitter {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+.airdrop-desktop-es .vector {
+  height: 12px;
+  margin-left: -428px;
+  margin-top: -2778.64px;
+  width: 12px;
+}
+.airdrop-desktop-es .vector-1 {
+  height: 2px;
+  margin-right: 14.0px;
+  margin-top: 77px;
+  width: 834px;
+}
+.airdrop-desktop-es .vector-10 {
+  height: 200px;
+  left: 633px;
+  position: absolute;
+  top: 9907px;
+  width: 4px;
+}
+.airdrop-desktop-es .vector-11 {
+  height: 4px;
+  left: 604px;
+  position: absolute;
+  top: 10005px;
+  width: 30px;
+}
+.airdrop-desktop-es .vector-12 {
+  height: 262px;
+  left: 417px;
+  position: absolute;
+  top: 9693px;
+  width: 2px;
+}
+.airdrop-desktop-es .vector-13 {
+  height: 102px;
+  left: 417px;
+  position: absolute;
+  top: 10060px;
+  width: 2px;
+}
+.airdrop-desktop-es .vector-14 {
+  height: 34px;
+  left: 412px;
+  position: absolute;
+  top: 544px;
+  width: 26px;
+}
+.airdrop-desktop-es .vector-15 {
+  height: 11px;
+  left: -1511px;
+  position: absolute;
+  top: -6941px;
+  width: 18px;
+}
+.airdrop-desktop-es .vector-15-1 {
+  height: 11px;
+  left: -795px;
+  position: absolute;
+  top: -4603px;
+  width: 18px;
+}
+.airdrop-desktop-es .vector-16 {
+  height: 10px;
+  left: 773px;
+  position: absolute;
+  top: 10815px;
+  width: 9px;
+}
+.airdrop-desktop-es .vector-17 {
+  height: 22px;
+  left: 762px;
+  position: absolute;
+  top: 10809px;
+  width: 30px;
+}
+.airdrop-desktop-es .vector-18 {
+  height: 27px;
+  left: 870px;
+  position: absolute;
+  top: 10807px;
+  width: 31px;
+}
+.airdrop-desktop-es .vector-2 {
+  height: 2px;
+  margin-right: 14.0px;
+  margin-top: 92px;
+  width: 834px;
+}
+.airdrop-desktop-es .vector-23 {
+  height: 2px;
+  left: 142px;
+  position: absolute;
+  top: 467px;
+  width: 100px;
+}
+.airdrop-desktop-es .vector-24 {
+  height: 2px;
+  left: 294px;
+  position: absolute;
+  top: 467px;
+  width: 100px;
+}
+.airdrop-desktop-es .vector-25 {
+  height: 2px;
+  left: 446px;
+  position: absolute;
+  top: 467px;
+  width: 100px;
+}
+.airdrop-desktop-es .vector-26 {
+  height: 2px;
+  left: 598px;
+  position: absolute;
+  top: 467px;
+  width: 100px;
+}
+.airdrop-desktop-es .vector-27 {
+  height: 2px;
+  left: 750px;
+  position: absolute;
+  top: 467px;
+  width: 100px;
+}
+.airdrop-desktop-es .vector-28 {
+  height: 2px;
+  left: 902px;
+  position: absolute;
+  top: 467px;
+  width: 100px;
+}
+.airdrop-desktop-es .vector-29 {
+  height: 2px;
+  left: 1054px;
+  position: absolute;
+  top: 467px;
+  width: 100px;
+}
+.airdrop-desktop-es .vector-3 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 273px;
+  width: 834px;
+}
+.airdrop-desktop-es .vector-3-1 {
+  height: 358px;
+  left: 633px;
+  position: absolute;
+  top: 9007px;
+  width: 4px;
+}
+.airdrop-desktop-es .vector-30 {
+  height: 2px;
+  left: 1206px;
+  position: absolute;
+  top: 467px;
+  width: 100px;
+}
+.airdrop-desktop-es .vector-4 {
+  height: 4px;
+  left: 604px;
+  position: absolute;
+  top: 9187px;
+  width: 30px;
+}
+.airdrop-desktop-es .vector-5 {
+  height: 358px;
+  left: 633px;
+  position: absolute;
+  top: 9457px;
+  width: 4px;
+}
+.airdrop-desktop-es .vector-6 {
+  height: 4px;
+  left: 604px;
+  position: absolute;
+  top: 9637px;
+  width: 30px;
+}
+.airdrop-desktop-es .vector-7 {
+  height: 100px;
+  left: 417px;
+  position: absolute;
+  top: 9031px;
+  width: 2px;
+}
+.airdrop-desktop-es .vector-8 {
+  height: 222px;
+  left: 417px;
+  position: absolute;
+  top: 9360px;
+  width: 2px;
+}
+.airdrop-desktop-es .vector-9 {
+  height: 40px;
+  left: 417px;
+  position: absolute;
+  top: 9238px;
+  width: 2px;
+}
+.airdrop-desktop-es .x2020-your-site-all {
+  letter-spacing: 0.88px;
+  margin-left: 16.0px;
+  margin-top: 48px;
+  min-height: 19px;
+  min-width: 372px;
+  text-align: center;
+}
+.airdrop-desktop-es .x4375108-256-1 {
+  height: 29px;
+  left: 438px;
+  object-fit: cover;
+  position: absolute;
+  top: 10806px;
+  width: 29px;
+}
+.airdrop-desktop-es .x4882066 {
+  height: 1719px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 8687px;
+  width: 1440px;
+}
+.airdrop-desktop-es .x80910 {
+  height: 672px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 10406px;
+  width: 1440px;
+}
